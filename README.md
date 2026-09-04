@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `15m` sample updated in sync
 
-> **Sample on GitHub** · `GBPUSD_15m.csv` (3,698 rows, `2026-07-09` -> `2026-09-02`, 350.24 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/gbpusd)** — **615,367** `15m` rows (full `1m`: 9,194,075), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
+> **Sample on GitHub** · `GBPUSD_15m.csv` (3,696 rows, `2026-07-09` -> `2026-09-02`, 350.03 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/gbpusd)** — **615,367** `15m` rows (full `1m`: 9,171,581), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | British Pound / US Dollar · Forex | British Pound / US Dollar · Forex |
 | Timeframes | `15m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 15m rows | 3,698 | **615,367** |
-| Size | 350.24 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
+| 15m rows | 3,696 | **615,367** |
+| Size | 350.03 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
 | Period | `2026-07-09` -> `2026-09-02` | `2001-11-28` -> `2026-09-02` |
 | File | `GBPUSD_15m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
 | Coverage report | — | [GBPUSD coverage](https://getdata.finance/coverage/gbpusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`GBPUSD_15m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:45:00+00:00 | 1.34266 | 1.34335 | 1.34231 | 1.34319 | 3012 |
-| 2026-07-09T14:00:00+00:00 | 1.34319 | 1.34419 | 1.34319 | 1.34325 | 4142 |
 | 2026-07-09T14:15:00+00:00 | 1.34325 | 1.34343 | 1.34265 | 1.3432 | 4794 |
 | 2026-07-09T14:30:00+00:00 | 1.3432 | 1.34356 | 1.34268 | 1.34297 | 4435 |
 | 2026-07-09T14:45:00+00:00 | 1.34297 | 1.34298 | 1.34185 | 1.3422 | 5129 |
+| 2026-07-09T15:00:00+00:00 | 1.3422 | 1.34303 | 1.34178 | 1.34267 | 3682 |
+| 2026-07-09T15:15:00+00:00 | 1.34267 | 1.34293 | 1.3422 | 1.3428 | 3231 |
 
 **Last rows**
 
